@@ -1,1 +1,1 @@
-classification is a example
+classification is study case example
