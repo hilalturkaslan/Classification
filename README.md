@@ -1,1 +1,1 @@
-classification for done it is a ai sample study case
+classification for do make than ai study case
