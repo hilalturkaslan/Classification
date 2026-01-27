@@ -1,1 +1,1 @@
-classification for done make than ai study case
+classification for done make inclodue ai study case
