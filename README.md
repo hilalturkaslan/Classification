@@ -1,1 +1,1 @@
-classification for done make inclodue ai study case. Streamlit done make web basic app.
+classification for done make inclodue ai study case. this case resourche  make basic app 
