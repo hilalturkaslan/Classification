@@ -1,3 +1,3 @@
-Classification for done make inclodue ai study case. This study case resource make simple app with understanding customers. A system design will be created for the supply process. We can analyze the factors in the supply chain with this application. Many factor data should be used in the development of the model. This allows the model to be more advanced. Thus, the system can analyze even complex sentences in a simple way.  
+Classification for done make inclodue ai study case. This study case resource make simple app with understanding customers. A system design will be created for the supply process. We can analyze the factors in the supply chain with this application. Many factor data should be used in the development of the model. This allows the model to be more advanced. Thus, the system can analyze even complex sentences in a simple way
 
 
