@@ -5,3 +5,4 @@ We can analyze the factors in the supply chain with this application.
 Many factor data should be used in the development of the model.
 This allows the model to be more advanced.
 Thus the system can analyze even complex sentences in a simple way.
+
